@@ -1,2 +1,2 @@
 # CppTest
-C++Test
+C++学習用リポジトリ
